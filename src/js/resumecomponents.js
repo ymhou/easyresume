@@ -26,7 +26,7 @@
 				var cCourse = <Course key="course-section" courses={this.props.json.courses}/>//课程
 				
 				
-				var comps=[cSumary,cWork,cProject,cOtherSection,cCourse,cEdu];//组合起来成为一个大的component
+				var comps=[cEdu,cSumary,cWork,cProject,cOtherSection,cCourse];//组合起来成为一个大的component
 				
 				return (
 					<div id="mainContent">
