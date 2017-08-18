@@ -1,45 +1,30 @@
 {
-    "name": "成旭源",
-    "birth": "11.03",
-    "tel": "136606xxxxxx",
-    "email": "linjunjie1103@gmail.com(作者邮箱，可联系)",
-    "blog": "http://jaskey.github.io",
-    "avatar": "image/avatar.jpg",
+    "name": "侯一鸣",
+    "birth": "山西/男/24岁",
+    "tel": "13234038636",
+    "email": "ymhou_cn@163.com",
+    "blog": "http://ymhou.github.io",
+    "avatar": "http://7xv676.com1.z0.glb.clouddn.com/17-8-18/27436504.jpg",
     "pages": [],
-    "educations": [
-        {
-            "university": "华南农业大学",
-            "studyType": "本科",
-            "major": "软件工程",
-            "startDate": "2009.07",
-            "endDate": "2013.07",
-            "gpa": "3.93/5.00",
-            "scholarships": [
-                "二等奖学金"
-            ],
-            "experiences": [
-                "英语口语协会会长，信息技术中心常务部副部长，软件学院助理班主任",
-                "社团类荣誉：2010年度华南农业大学“优秀团干部”、2009年度华南农业大学“优秀团员”",
-                "实践类荣誉：2010亚运会志愿服务“志愿者先进个人”、“突出贡献奖”、第四届“新鲜人”才艺大赛二等奖"
-            ]
-        }
-    ],
     "summaries": [
-        "熟练Java、Javascript、掌握Android开发，SQL、PL/SQL；用过C、C#、VBA等其他编程语言。",
-        "掌握Spring、Spring MVC、Struts2、Hibernate、Play!；熟悉jQuery、掌握ExjJS、jQuery Mobile前端框架。",
-        "熟悉并能应用面向对象设计原则、掌握多种设计模式，熟悉Java多线程、同步模型，了解分布式架构。",
-        "突出的学习能力和学习热情，能自学MOOC课程并已完成3门证书；擅用文档、StackOverflow学习技术。"
+        "熟悉Java（基础， 面向对象， 集合， 多线程， 虚拟机），了解C#， Python编程语言。",
+        "熟悉MySQL， SQL Server等关系型数据库，了解Redis， Oracle数据库。",
+        "熟悉Java Web开发以及MVC开发模式，熟悉Spring， SpringMVC， Mybatis等框架。",
+        "熟悉Linux常用命令与配置， 运维实验室服务器虚拟化系统，了解Docker的基本使用。",
+        "能熟练使用Git， SVN等版本控制工具，熟悉Maven项目管理工具。",
+        "CET-4（511）， CET-6（449），能较为熟练的阅读英文专业书籍和文档。"
     ],
     "workExperiences": [
         {
-            "company": "大腿公司",
-            "post": "高级软件工程师",
-            "startDate": "2015.01",
-            "endDate": "至今",
-            "summary": "使用Java、JavaScript开发网易游戏数据平台（有数），供百余款游戏提供可视化数据分析。",
+            "company": "华为北京研究所",
+            "post": "软件开发工程师（实习生）",
+            "startDate": "2017.05",
+            "endDate": "2017.07",
+            "summary": "工作部门：EMUI基础ROM通信开发部",
             "details": [
-                "整个系统前端交互、视觉迭代、前端重构等主要负责人；国际化、pjax局部刷新、权限管理、页面布局开发者。",
-                "完成多个专题页面：多游戏产品概览、运营报表、梦幻手游物品产销、镇魔曲实时数据分析、开测对比、付费专题、留存专题、服务器分析、武魂战斗力分析专题等。新专题页面使平台活跃/新增用户均增加约100%。"
+                "熟悉中移RCS和短彩信收发流程，熟悉业务代码及问题单走单流程。",
+                "承担EMUI 6.0迭代四版本短彩信应用的部分测试任务，并负责撰写测试日报。",
+                "修复荣耀主题适配、通话过程中接收短彩信无提示音等bug，协助音乐业务部对短彩 信音乐附件播放失败问题进行根因分析。"
             ]
         },
         {
@@ -47,102 +32,127 @@
             "post": "软件工程师",
             "startDate": "2013.07",
             "endDate": "2015.01",
-            "summary": "开发并维护Oracle EBS（电子商务套件）资产管理系统，为全球客户（如Facebook、华为）提供系统研发支持。",
+            "summary": "小牛公司的概述（可以不填）",
             "details": [
-                "维护代码量千万级别的Java和PL/SQL代码，对系统进行新功能开发、对100多张数据库表进行数据维护。",
-                "平均每月完成10个，最高20个（KPI 4-6个）新功能/Bug fix；为全球客户开发了100多个客户功能补丁。"
+                "小牛公司的细节一",
+                "小牛公司的细节二"
             ]
         }
     ],
     "projectExperiences": [
         {
-            "projectName": "网易游戏数据分析系统",
+            "projectName": "选矿MES设备状态监控系统",
             "role": "主要开发成员",
-            "startDate": "2015.01",
-            "endDate": "2016.04",
-            "summary": "",
+            "startDate": "2016.09",
+            "endDate": "2017.04",
+            "summary": "国家863计划资助项目",
             "details": [
-                "页面交互、视觉迭代主要负责人；页面导航结构开发者；编写多个通用性前端控件、数据交互、工具类函数。",
-                "使用Java+JS开发十余个数据可视化页面：运营报表、付费专题、留存专题等、用研团队工具十余个模块。",
-                "编写Python脚本进行MySQL部分页面文件配置转换、日志数据解析等工作。"
+                "主要负责PLC/DCS控制系统数据和选矿设备数据的处理分析，指标优化，利用PCA算 法建立故障诊断模型，并负责完成系统的后台开发。",
+                "后台使用Spring、 SpringMVC、 Mybatis三个框架， 封装RESTful API。"
             ]
         },
         {
-            "projectName": "One Menu",
-            "role": "兼职开发",
-            "startDate": "2015.08",
-            "endDate": "2015.11",
-            "summary": "为美国创业者开发One Menu（美国O2O外卖订餐App）服务段接口；使用Github、Trello协作。",
+            "projectName": "知识问答系统（类知乎）",
+            "role": "",
+            "startDate": "2016.04",
+            "endDate": "2016.07",
+            "summary": "个人项目(https://github.com/ymhou/Q-A)",
             "details": [
-                "使用Spring MVC , Hibernate开发购物车，优惠券相关的数十个后端接口供前端数据获取。",
-                "设计并实现使用责任链+空对象设计模式，处理多优惠劵条件判断、价格计算等逻辑。"
-            ]
-        },
-        {
-            "projectName": "Oracle EBS",
-            "role": "主要成员",
-            "startDate": "2012.11",
-            "endDate": "2013.04",
-            "summary": "与美国、印度研发团队合作，对Oracle EBS(电子商务套件)资产管理（EAM）系统进行新功能开发，系统维护。",
-            "details": [
-                "同时对系统4个版本中业务最复杂的工单、预测维修、报告分析等模块进行新功能开发、代码维护、数据修复。",
-                "与团队一高级工程师一同负责最新子模块线性资产（LAM）的事件服务、REST接口代码开发工作。",
-                "采用MVC模式，使用Java+OAF框架进行Web开发，PL/SQL进行数据验证以及业务逻辑的实现。"
+                "采用 SpringBoot 并集成 Mybatis 构建项目框架，采用 Velocity 语法实现前后端分离。",
+                "构建注册登录拦截器，实现用户的注册，登录，浏览及未登录跳转等功能。",
+                "构建前缀树进行敏感词过滤，实现问题发布，评论中心，站内信等功能。",
+                "使用Redis实现赞踩、异步队列以及sns关注和被关注功能，实现推拉timeline功能。",
+                "采用 IK-Analyzer 进行 Solr 中文分词，实现站内全文搜索功能。",
+                "使用 Junit 进行单元测试，配置 Nginx 并进行项目的打包以及部署。"
             ]
         }
     ],
     "sections": [
         {
-            "title": "开发小工具",
+            "title": "获奖情况",
             "fragments": [
                 {
-                    "name": "微信公众号测试客户端",
+                    "name": "硕士期间",
                     "comment": "",
-                    "startDate": "",
-                    "endDate": "",
-                    "summary": "完成发送HTTP测试数据并解析响应数据的功能测试Swing客户端，大大提高复杂逻辑的公众号功能测试效率。",
-                    "details": []
-                },
-                {
-                    "name": "火狐搜索插件",
-                    "comment": "",
-                    "startDate": "",
-                    "endDate": "",
-                    "summary": "独立编写快速搜索小插件，使用Spring MVC+HttpClient完成搜索推荐（如热门微博）的数据格式适配。",
-                    "details": []
-                }
-            ]
-        },
-        {
-            "title": "培训经历",
-            "fragments": [
-                {
-                    "name": "甲骨文人才发展中心",
-                    "comment": "2013校招培训项目",
-                    "startDate": "2013.09",
-                    "endDate": "2013.12",
+                    "startDate": "2015.09",
+                    "endDate": "至今",
                     "summary": "",
                     "details": [
-                        "校招深圳研发中心B组组长，第一届甲骨文编程马拉松中获带领小组获项目“创新奖”，本人获“优秀小组长"
+                        "2016年全国大学生物联网技术与应用“三创”大赛全国一等奖；研究生智慧城市竞赛辽宁省二等奖。",
+                        "研究生学业奖学金一等奖 两次；东北大学校长奖学金。",
+                        "获流程工业综合自动化国家重点实验室科研成果奖。"
                     ]
                 },
                 {
-                    "name": "甲骨文大学",
-                    "comment": "技术培训",
-                    "startDate": "2013.7",
-                    "endDate": "2013.9",
-                    "summary": "参与甲骨文大学(对外)Java7 、SQL、PL/SQL、Oracle Application Framework（OAF）等7门技术培训课程。",
-                    "details": []
+                    "name": "本科期间",
+                    "comment": "",
+                    "startDate": "2011.09",
+                    "endDate": "2015.06",
+                    "summary": "",
+                    "details": [
+                        "第九届全国大学生交通科技大赛全国优胜。",
+                        "第十一届“挑战杯”大学生课外科技作品竞赛省二等奖。",
+                        "2013年全国大学生电子设计竞赛省三等奖。",
+                        "第八届全国大学生“飞思卡尔”杯智能车竞赛东北赛区优秀奖。",
+                        "大连市优秀毕业生；校优秀学生干部；学业奖学金等。"
+                    ]
                 }
             ]
         },
         {
-            "title": "英语能力",
-            "points": [
-                "无障碍阅读原版技术书籍、文档、StackOverflow",
-                "能与跨国团队协作",
-                "英语六级、剑桥商务英语国际证书。"
+            "title": "专利论文",
+            "fragments": [
+                {
+                    "name": "发明专利",
+                    "comment": "",
+                    "startDate": "",
+                    "endDate": "",
+                    "summary": "",
+                    "details": [
+                        "《一种选矿设备状态运行监控系统及方法》（申请号：201610844083.1）",
+                        "《一种基于物联网和工业云的选矿设备移动监测系统及方法》（201610807805.6）"
+                    ]
+                },
+                {
+                    "name": "论文发表",
+                    "comment": "第一作者，EI检索，计算机集成制造系统",
+                    "startDate": "",
+                    "endDate": "",
+                    "summary": "",
+                    "details": [
+                        "《基于物联网和工业云的选矿设备状态监控系统》"
+                    ]
+                }
             ]
+        },
+        {
+            "title": "其他",
+            "points": [
+                "2013.10 – 2014.10 担任大连交通大学电子学社 社长",
+                "2011.9 – 2015.6 担任大连交通大学自动化112班 生活班长"
+            ]
+        }
+    ],
+    "educations": [
+        {
+            "university": "东北大学",
+            "studyType": "硕士（国家重点实验室）",
+            "major": "控制理论与控制工程",
+            "startDate": "2015.09",
+            "endDate": "2018.01",
+            "gpa": "",
+            "scholarships": [],
+            "experiences": []
+        },
+        {
+            "university": "大连交通大学",
+            "studyType": "学士",
+            "major": "自动化",
+            "startDate": "2011.09",
+            "endDate": "2015.06",
+            "gpa": "",
+            "scholarships": [],
+            "experiences": []
         }
     ]
 }
