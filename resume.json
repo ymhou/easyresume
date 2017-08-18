@@ -6,6 +6,24 @@
     "blog": "http://jaskey.github.io",
     "avatar": "image/avatar.jpg",
     "pages": [],
+    "educations": [
+        {
+            "university": "华南农业大学",
+            "studyType": "本科",
+            "major": "软件工程",
+            "startDate": "2009.07",
+            "endDate": "2013.07",
+            "gpa": "3.93/5.00",
+            "scholarships": [
+                "二等奖学金"
+            ],
+            "experiences": [
+                "英语口语协会会长，信息技术中心常务部副部长，软件学院助理班主任",
+                "社团类荣誉：2010年度华南农业大学“优秀团干部”、2009年度华南农业大学“优秀团员”",
+                "实践类荣誉：2010亚运会志愿服务“志愿者先进个人”、“突出贡献奖”、第四届“新鲜人”才艺大赛二等奖"
+            ]
+        }
+    ],
     "summaries": [
         "熟练Java、Javascript、掌握Android开发，SQL、PL/SQL；用过C、C#、VBA等其他编程语言。",
         "掌握Spring、Spring MVC、Struts2、Hibernate、Play!；熟悉jQuery、掌握ExjJS、jQuery Mobile前端框架。",
@@ -124,24 +142,6 @@
                 "无障碍阅读原版技术书籍、文档、StackOverflow",
                 "能与跨国团队协作",
                 "英语六级、剑桥商务英语国际证书。"
-            ]
-        }
-    ],
-    "educations": [
-        {
-            "university": "华南农业大学",
-            "studyType": "本科",
-            "major": "软件工程",
-            "startDate": "2009.07",
-            "endDate": "2013.07",
-            "gpa": "3.93/5.00",
-            "scholarships": [
-                "二等奖学金"
-            ],
-            "experiences": [
-                "英语口语协会会长，信息技术中心常务部副部长，软件学院助理班主任",
-                "社团类荣誉：2010年度华南农业大学“优秀团干部”、2009年度华南农业大学“优秀团员”",
-                "实践类荣誉：2010亚运会志愿服务“志愿者先进个人”、“突出贡献奖”、第四届“新鲜人”才艺大赛二等奖"
             ]
         }
     ]
