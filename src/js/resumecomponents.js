@@ -18,13 +18,13 @@
 			},
 
 			render:function(){
-
+                                var cEdu = <Educations key="education-section" educations={this.props.json.educations}/>;//教育经历
 				var cSumary = <Summary key="summary-section" summaries = {this.props.json.summaries}/>;//概览模块
 				var cWork = <Work key="work-section" workExperiences = {this.props.json.workExperiences}/>//工作模块
 				var cProject = <ProjectExperience key="project-section" projectExperiences = {this.props.json.projectExperiences}/>//项目经验
 				var cOtherSection = <OtherSections key="other-section" sections={this.props.json.sections}/>//其他模块
 				var cCourse = <Course key="course-section" courses={this.props.json.courses}/>//课程
-				var cEdu = <Educations key="education-section" educations={this.props.json.educations}/>;//教育经历
+				
 				
 				var comps=[cSumary,cWork,cProject,cOtherSection,cCourse,cEdu];//组合起来成为一个大的component
 				
