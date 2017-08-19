@@ -72,7 +72,7 @@
 				ReactDOM.render(<div><Resume  json={json}/></div>,document.getElementById('container'));
 
 				var name = json.name;
-				if(name) document.title='EasyResume-'+name;
+				if(name) document.title='侯一鸣简历-东北大学';
 			}).fail(function(jqxhr, textStatus, error ){
 				var err = textStatus + ", " + error;
             	console.error( "[Request resume.json Failed]: " + err );
