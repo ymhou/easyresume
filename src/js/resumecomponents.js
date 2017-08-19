@@ -43,7 +43,7 @@
 							{comps}
 						</div>
 						<div id="footer"><div id="credit">Powered by <a href="https://github.com/jaskey/easyresume/" target="_blank" >EasyResume</a></div></div>{/*水印*/}
-						<img src="http://7xv676.com1.z0.glb.clouddn.com/17-8-19/60487843.jpg" style="display:none" />
+						
 					</div>
 				)
 			},
