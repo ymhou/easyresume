@@ -4,8 +4,12 @@
     "tel": "(+86)132-3403-8636",
     "email": "ymhou_cn@163.com",
     "blog": "http://ymhou.github.io",
-    "avatar": "/image/avatar.jpg",
-    "pages": [],
+    "avatar": "http://7xv676.com1.z0.glb.clouddn.com/17-8-19/60487843.jpg",
+    "pages": [        
+			{"github":"https://github.com/ymhou"},
+			{"linkedin":"https://www.linkedin.com/in/%E4%B8%80%E9%B8%A3-%E4%BE%AF-0b1146126/"}
+			
+    ],
     "summaries": [
         "熟悉Java（基础， 面向对象， 集合， 多线程， 虚拟机），了解C#， Python编程语言。",
         "熟悉MySQL， SQL Server等关系型数据库，了解Redis， Oracle数据库。",
