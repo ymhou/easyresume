@@ -3,7 +3,7 @@
     "birth": "山西/男/24岁",
     "tel": "(+86)132-3403-8636",
     "email": "ymhou_cn@163.com",
-    "blog": "http://ymhou.github.io",
+    "blog": "<a href="http://ymhou.github.io">http://ymhou.github.io</a>",
     "avatar": "http://7xv676.com1.z0.glb.clouddn.com/17-8-19/60487843.jpg",
     "pages": [        
 			{"github":"https://github.com/ymhou"},
@@ -125,7 +125,8 @@
             "points": [
                 "政治面貌：中共党员",
                 "学生活动：曾担任大连交通大学电子学社 社长",
-                "兴趣爱好：游泳、登山、骑行等"
+                "兴趣爱好：游泳、登山、骑行等",
+		"电子简历："
             ]
         }
     ],
